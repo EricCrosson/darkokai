@@ -1,6 +1,8 @@
 # Darkokai 🌑
 A dark variant of [oneKelvinSmith’s Monokai port](https://github.com/oneKelvinSmith/monokai-emacs) for Emacs. This came about as I had an ever-growing unorganised list of overrides and tweaks on Monokai which eventually began to emerge into its own style.
 
+Also included is the inverse of this theme, to allow functionality with inverted monitors.
+
 ## Screenshots
 
 ![darkokai-elixir-preview](/../screenshots/elixir-example.png)
